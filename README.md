@@ -1,3 +1,5 @@
+[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.08.627375v1) 
+
 Links to datasets:
 
 [Genomic Benchmarks](https://github.com/ML-Bioinfo-CEITEC/genomic_benchmarks) 
