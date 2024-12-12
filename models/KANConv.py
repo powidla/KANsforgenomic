@@ -83,7 +83,7 @@ def kan_conv1d(matrix: torch.Tensor,
         stride (int, optional): Stride along the width axis. Defaults to 1.
         dilation (int, optional): Dilation along the width axis. Defaults to 1.
         padding (int, optional): Padding along the width axis. Defaults to 0.
-        device (str): Device to perform the operation on (e.g., "cuda" or "cpu").
+        device (str): "cuda" or "cpu".
 
     Returns:
         torch.Tensor: 1D Feature map after convolution.
