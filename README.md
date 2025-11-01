@@ -1,4 +1,4 @@
-[Preprint](https://www.biorxiv.org/content/10.1101/2024.12.08.627375v1) 
+[Paper](https://academic.oup.com/bib/article/26/2/bbaf129/8101506) 
 
 Links to datasets:
 
